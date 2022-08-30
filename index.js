@@ -15,6 +15,6 @@ for(i=0;i<names.length;i++){
     console.log("Goodbye\t"+names[i])
   }
   else{
-    console.log("Hello"+names[i])
+    console.log("Hello\t"+names[i])
   }
 }
